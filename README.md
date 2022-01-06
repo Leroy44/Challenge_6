@@ -1,2 +1,1 @@
-# Challenge_6
-Interactive visualization of the San Francisco housing market
+# Interactive visualization of the San Francisco housing market
